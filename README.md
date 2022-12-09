@@ -21,8 +21,7 @@ TODO: Photo close up
 | C69152      | Connector (PH)| 5 pin | TH       | 1      |
 
 ## Production
-[TODO: Produciton things]
-
+Production files are set up for JLCPCB.  There were a few postion tweaks for connectors vs what KiCad generates.  Note there are 3 different versions depending on the connector choosen EH, PH or none (self solder the appropriate one)
 
 ## Revisions
 1.0 Initial prototype
