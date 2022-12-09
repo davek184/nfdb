@@ -12,3 +12,9 @@ TODO: Photo close up
 
 ## Production
 [TODO: Produciton things]
+
+
+## Revisions
+1.0 Initial prototype
+
+1.1 Flipped silkscreen orientation.  Minor silk screen adjustments for readability.
