@@ -9,7 +9,6 @@ TODO: Photo close up
 TODO: Photo close up
 
 ## BOM
-## BOM
 
 | LCSC part # | Description   | Value | Package  | Amount |
 | ----------- | ------------- | ----- | -------- | ------:|
