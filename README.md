@@ -1,12 +1,18 @@
-# USB C Daughter/Breakout board for Norbaforce
+# USB C Daughter/Breakout board for Norbaforce 
 
-EST and over voltage protection.  CC1 & CC2 resistors to work with USB-C to C cables.
+ESD and over voltage protection.  CC1 & CC2 resistors to work with USB-C to C cables.
+[TODO: Models this works with MK1, 2, 3????]
 
-## JST EH connector (4 pin):
-TODO: Photo close up
+## JST EH connector (4 pin, 2.5mm pitch):
+[TODO: Photo close up]
+Realforce Boards using this connector: [???]
 
-## JST PH connector (5 pins): 
-TODO: Photo close up
+## JST PH connector (5 pins, 2.0mm pitch): 
+[TODO: Photo close up]
+Realforce Boards using this connector: [???]
+
+## Production
+Production files are set up for JLCPCB.  There were a few postion tweaks for connectors vs what KiCad generates.  Note there are 3 different versions depending on the connector choosen EH, PH or none (self solder the appropriate one)
 
 ## BOM
 
@@ -20,8 +26,7 @@ TODO: Photo close up
 | C265068     | Connector (EH)| 4 pin | TH       | 1      |
 | C69152      | Connector (PH)| 5 pin | TH       | 1      |
 
-## Production
-Production files are set up for JLCPCB.  There were a few postion tweaks for connectors vs what KiCad generates.  Note there are 3 different versions depending on the connector choosen EH, PH or none (self solder the appropriate one)
+
 
 ## Revisions
 1.0 Initial prototype
