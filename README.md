@@ -1,15 +1,17 @@
 # USB C Daughter/Breakout board for Norbaforce 
 
-For the Norbaforce Mark II & Mark III (no idea on Mark I).  Features ESD protection, over voltage protection, CC1 & CC2 resistors to work with USB-C to C cables.  These PCB design is the same daughterboard stamped out twice for R1 realforces (EH connector) & R2 Realforces (PH connector).
+For the Norbaforce.  Features ESD protection, over voltage protection, CC1 & CC2 resistors to work with USB-C to C cables.  These PCB design is the same daughterboard stamped out twice for R1 realforces (EH connector) & R2 Realforces (PH connector).
 
 [TODO: Combined photo]
 
-## R1 Realforce: JST EH connector (4 pin, 2.5mm pitch):
-Realforce Boards using this connector: R1 RealForces 86U, 87U, 88U, 91U
+## R1 Realforce: JST EH connector:
+* Keyboards: R1 RealForces 86U, 87U, 88U, 91U
+* Cable: EH to EH (4 pin, 2.5mm pitch), Shielding cable 13cm 
 [TODO: Photo close up]
 
-## R2 Realforces: JST PH connector (5 pins, 2.0mm pitch): 
-Realforce Boards using this connector: R2 TKL, R2 RGB TKL
+## R2 Realforces: JST PH connector: 
+* Keyboards: R2 TKL, R2 RGB TKL
+* Cable: PH to PH  (5 pin, 2.0mm pitch) 11cm
 [TODO: Photo close up]
 
 ## Production
