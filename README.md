@@ -1,6 +1,6 @@
 # USB C Daughter/Breakout board for Norbaforce 
 
-For the Norbaforce.  Features ESD protection, over voltage protection, CC1 & CC2 resistors to work with USB-C to C cables.  These PCB design is the same daughterboard stamped out twice for R1 realforces (EH connector) & R2 Realforces (PH connector).
+For the Norbaforce.  Features ESD protection, over voltage protection, CC1 & CC2 resistors to work with USB-C to C cables.  There are 2 daughterboard PBCs in this design to save money when manufacturing and since the Norbaforce can support both makes more sense to do it this way then one PCB design per type.
 
 [TODO: Combined photo]
 
