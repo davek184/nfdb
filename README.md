@@ -40,4 +40,7 @@ Production files are set up for JLCPCB.
 ## Revisions
 1.0 Initial prototype
 
-1.1 Updated Design so that both RF1 & RF2 models can be printed in one file (saves money when manufacturing). Flipped silkscreen orientation for those with a clear case.  Minor trace routing and silkscreen adjustments.
+1.1 
+* Updated Design so that both RF1 & RF2 models can be printed in one file (saves money when manufacturing). 
+* Flipped silkscreen orientation for those with a clear case.  
+* Minor trace routing and silkscreen adjustments.
