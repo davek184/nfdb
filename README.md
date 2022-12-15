@@ -2,18 +2,20 @@
 
 For the Norbaforce.  Features ESD protection, over voltage protection, CC1 & CC2 resistors to work with USB-C to C cables.  There are 2 daughterboard PBCs in this design to save money when manufacturing and since the Norbaforce can support both makes more sense to do it this way then one PCB design per type.
 
-[TODO: Combined photo]
+![Front](https://i.imgur.com/rTF9m1T.png)
+![Back](https://i.imgur.com/VAFtKtq.png)
 
-## R1 Realforce: JST EH connector:
+## R1 Realforce: JST EH connector
 * Keyboards: R1 RealForces 86U, 87U, 88U, 91U
 * Cable: EH to EH (4 pin, 2.5mm pitch), Shielding cable 13cm 
 
-## R2 Realforces: JST PH connector: 
+## R2 Realforce: JST PH connector
 * Keyboards: R2 TKL, R2 RGB TKL
 * Cable: PH to PH  (5 pin, 2.0mm pitch) 11cm
 
 ## Production
 Production files are set up for JLCPCB.  There were a few postion tweaks for connectors vs what KiCad generates. 
+For the "Remove Order Number" option choose "Specify Location" (Places JLCPCB production number over the JLCJLC silkscreen see render)
 
 ## BOM
 
