@@ -14,8 +14,16 @@ For the Norbaforce.  Features ESD protection, over voltage protection, CC1 & CC2
 * Cable: PH to PH  (5 pin, 2.0mm pitch) 11cm
 
 ## Production
-Production files are set up for JLCPCB.  There were a few postion tweaks for connectors vs what KiCad generates. 
-For the "Remove Order Number" option choose "Specify Location" (Places JLCPCB production number over the JLCJLC silkscreen see render)
+Production files are set up for JLCPCB. 
+* For the "Remove Order Number" option choose "Specify Location" (Places JLCPCB production number over the JLCJLC silkscreen see render)
+* Assemble top side
+* Part placement adjustments for JLCPCB (these are already set in production files but will need to be manually done again if new files are generated)
+
+| Part              | Adjustment   |
+| ----------------- | ------------- |
+| USB-C Connector   | Down 5.06mm   |
+| JST EH Connector  | Up 3.75mm   |
+| JST PH  Connector | Rotate 90°, Right 1mm |
 
 ## BOM
 
