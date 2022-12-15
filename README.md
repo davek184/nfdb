@@ -37,6 +37,8 @@ Production files are set up for JLCPCB.
 | C265068     | Connector (EH)| 4 pin | TH       | 2      |
 | C265104     | Connector (PH)| 5 pin | SMT      | 2      |
 
+_Note if the capacitor or resistors are out of stock they can be replaced with 0805 sized component with similar specs._
+
 ## Revisions
 1.0 Initial prototype
 
