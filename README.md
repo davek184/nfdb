@@ -23,7 +23,7 @@ Production files are set up for JLCPCB.
 | ----------------- | ------------- |
 | USB-C Connector   | Down 5.06mm   |
 | JST EH Connector  | Up 3.75mm   |
-| JST PH  Connector | Rotate 90°, Right 1mm |
+| JST PH  Connector | Rotate 90°, Right ~0.3mm |
 
 ## BOM
 
