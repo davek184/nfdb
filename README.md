@@ -1,6 +1,6 @@
 # USB C Daughter/Breakout board for Norbaforce 
 
-For the Norbaforce.  Features ESD protection, over voltage protection, CC1 & CC2 resistors to work with USB-C to C cables.  There are 2 daughterboard PBCs in this design to save money when manufacturing and since the Norbaforce can support both makes more sense to do it this way then one PCB design per type.
+For the Norbaforce (MK1 fits perfect, MK2 & MK3 have small USB openings for USB-C connector but it does fit).  Features ESD protection, over voltage protection, CC1 & CC2 resistors to work with USB-C to C cables.  There are 2 daughterboard PBCs in this design to save money when manufacturing and since the Norbaforce can support both makes more sense to do it this way then one PCB design per type.
 
 ![Front](https://i.imgur.com/rTF9m1T.png)
 ![Back](https://i.imgur.com/VAFtKtq.png)
@@ -40,9 +40,11 @@ Production files are set up for JLCPCB.
 _Note if the capacitor or resistors are out of stock they can be replaced with 0805 sized component with similar specs._
 
 ## Revisions
-1.0 Initial prototype
+1.0
+* Initial prototype
 
-1.1 
+1.1
 * Updated Design so that both RF1 & RF2 models can be printed in one file (saves money when manufacturing). 
 * Flipped silkscreen orientation for those with a clear case.  
 * Minor trace routing and silkscreen adjustments.
+* Updated JST PH connector to surface mount instead of through hole.
