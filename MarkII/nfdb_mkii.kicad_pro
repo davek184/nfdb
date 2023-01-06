@@ -33,9 +33,9 @@
         "other_text_thickness": 0.15,
         "other_text_upright": true,
         "pads": {
-          "drill": 0.0,
-          "height": 3.4,
-          "width": 1.5
+          "drill": 0.7874,
+          "height": 0.7874,
+          "width": 0.7874
         },
         "silk_line_width": 0.12,
         "silk_text_italic": false,
@@ -347,7 +347,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "nfdb.kicad_pro",
+    "filename": "nfdb_mkii.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -422,7 +422,7 @@
       "specctra_dsn": "",
       "step": "Test.step",
       "vmrl": "",
-      "vrml": ""
+      "vrml": "all"
     },
     "page_layout_descr_file": ""
   },
