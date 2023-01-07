@@ -10,7 +10,11 @@ There are 2 daughterboard PBCs in this design to save money when manufacturing a
 
 ## R1 Realforce: JST EH connector
 * Keyboards: R1 RealForces 86U, 87U, 88U, 91U
-* Cable: EH to EH (4 pin, 2.5mm pitch), Shielding cable 13cm 
+* Cable: 
+  * EH to EH 2.5mm pitch
+  * 4 pin
+  * Lenth: 13cm 
+  * SAME DIRECTION pinnout
 
 ## R2 Realforce: JST PH connector
 * Keyboards: R2 TKL, R2 RGB TKL
