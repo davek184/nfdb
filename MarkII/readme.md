@@ -14,11 +14,15 @@ There are 2 daughterboard PBCs in this design to save money when manufacturing a
   * EH to EH 2.5mm pitch
   * 4 pin
   * Lenth: 13cm 
-  * SAME DIRECTION pinnout
+  * SAME direction pinnout
 
 ## R2 Realforce: JST PH connector
 * Keyboards: R2 TKL, R2 RGB TKL
-* Cable: PH to PH  (5 pin, 2.0mm pitch) 11cm
+* Cable: 
+  * PH to PH 2.0mm pitch
+  * 5 pin
+  * REVERSED direction pinnout
+  * Lenth: 11cm
 
 ## Production
 * Production files are set up for JLCPCB.  
