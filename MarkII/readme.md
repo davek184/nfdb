@@ -13,8 +13,8 @@ There are 2 daughterboard PBCs in this design to save money when manufacturing a
 * Cable: 
   * EH to EH 2.5mm pitch
   * 4 pin
-  * Lenth: 13cm 
-  * SAME direction pinnout
+  * Length: 13cm 
+  * SAME direction pinout
   
 ![RF1Pinnout](https://i.imgur.com/1XAKQX5.png)
 
@@ -23,8 +23,8 @@ There are 2 daughterboard PBCs in this design to save money when manufacturing a
 * Cable: 
   * PH to PH 2.0mm pitch
   * 5 pin
-  * REVERSED direction pinnout
-  * Lenth: 11cm
+  * REVERSED direction pinout
+  * Length: 11cm
 
 ## Production
 * Production files are set up for JLCPCB.  
