@@ -2,7 +2,7 @@
 
 For the Norbaforce (MK2) Features ESD protection, over voltage protection, CC1 & CC2 resistors to work with USB-C to C cables.  
 
-There are 2 daughterboard PBCs in this design to save money when manufacturing and since the Norbaforce can support both.  Makes more economic sense to manufacture this way (yes could have been panelized more efficently, my first attempt at panelizing)
+There are 2 daughterboard PBCs in this design (one for RF1 and one for RF2) to save money manufacturing.
 
 [TODO: Once samples arrive include photo with riser)
 
