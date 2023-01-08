@@ -9,7 +9,7 @@ There are 2 daughterboard PBCs in this design to save money when manufacturing a
 ![Render](https://i.imgur.com/sFphkfc.png)
 
 ## R1 Realforce: JST EH connector
-* Keyboards: R1 RealForces 86U, 87U, 88U, 91U
+* Models: 86U, 87U, 88U, 91U
 * Cable: 
   * EH to EH 2.5mm pitch
   * 4 pin
@@ -19,7 +19,7 @@ There are 2 daughterboard PBCs in this design to save money when manufacturing a
 ![RF1Pinnout](https://i.imgur.com/1XAKQX5.png)
 
 ## R2 Realforce: JST PH connector
-* Keyboards: R2 TKL, R2 RGB TKL
+* Models: R2 TKL, R2 RGB TKL
 * Cable: 
   * PH to PH 2.0mm pitch
   * 5 pin
