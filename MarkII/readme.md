@@ -24,9 +24,8 @@ _(2 daughterboards in this design, RF1 & RF2, to save money manufacturing)_
 
 ## Production
 * Production files are set up for JLCPCB.  
-* For now only Gerber file is included
 * "Remove Order Number" option choose "Specify Location" (uses "JLCJLC" on silkscreen for order # position)
-* _Note only Gerber file is included now so part files would need to be generated from KiCad.  In addition these would need to be manually soldered for the USB raiser with pin headers_
+* _Note only Gerber file is included so part files would need to be generated from KiCad.  In addition these would need to be manually soldered for the USB riser with pin headers_
 
 | Part              | Adjustment   |
 | ----------------- | ------------- |
