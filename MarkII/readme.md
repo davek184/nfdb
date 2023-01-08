@@ -1,36 +1,32 @@
 # USB C Daughter/Breakout board for Norbaforce 
 
-For the Norbaforce (MK2) Features ESD protection, over voltage protection, CC1 & CC2 resistors to work with USB-C to C cables.  
+For the Norbaforce (MKii/iii). Features USB-C port, ESD protection, over voltage protection, CC1 & CC2 resistors to work with USB-C to C cables.  
 
-There are 2 daughterboard PBCs in this design (one for RF1 and one for RF2) to save money manufacturing.
+_(2 daughterboards in this design, RF1 & RF2, to save money manufacturing)_
 
 [TODO: Once samples arrive include photo with riser)
 
 ![Render](https://i.imgur.com/sFphkfc.png)
 
-## R1 Realforce: JST EH connector
-* Models: 86U, 87U, 88U, 91U
-* Cable: 
-  * EH to EH 2.5mm pitch
-  * 4 pin
-  * Length: 6cm 
-  * SAME direction pinout
-  
-![RF1Pinnout](https://i.imgur.com/1XAKQX5.png)
+## Realforce R1 
+**Models:** 86U, 87U, 88U, 91U
 
-## R2 Realforce: JST PH connector
-* Models: R2 TKL, R2 RGB TKL
-* Cable: 
-  * PH to PH 2.0mm pitch
-  * 5 pin
-  * Length: 11cm
-  * REVERSED direction pinout
+**Cable:** EH to EH (2.5mm pitch), 4 pin, SAME direction, Length 6cm
+  
+![RF1Pinnout](https://i.imgur.com/Yg8DMYr.png)
+
+## Realforce R2 
+**Models:** R2 TKL, R2 RGB TKL
+
+**Cable:** PH to PH (2.0mm pitch), 5 pin, REVERSED Direction, Length 11cm
+ 
+![RF2Pinnout](https://i.imgur.com/rXatLpw.png)
 
 ## Production
 * Production files are set up for JLCPCB.  
 * For now only Gerber file is included
 * For the "Remove Order Number" option choose "Specify Location" (Places JLCPCB production number over the JLCJLC silkscreen see render)
-* Note only Gerber file is included now so part files would need to be generated from KiCad.  In addition these would need to be manually soldered for the USB raiser with pin headers
+* _Note only Gerber file is included now so part files would need to be generated from KiCad.  In addition these would need to be manually soldered for the USB raiser with pin headers_
 
 | Part              | Adjustment   |
 | ----------------- | ------------- |
