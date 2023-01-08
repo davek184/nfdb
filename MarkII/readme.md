@@ -13,7 +13,7 @@ There are 2 daughterboard PBCs in this design (one for RF1 and one for RF2) to s
 * Cable: 
   * EH to EH 2.5mm pitch
   * 4 pin
-  * Length: 13cm 
+  * Length: 6cm 
   * SAME direction pinout
   
 ![RF1Pinnout](https://i.imgur.com/1XAKQX5.png)
@@ -23,8 +23,8 @@ There are 2 daughterboard PBCs in this design (one for RF1 and one for RF2) to s
 * Cable: 
   * PH to PH 2.0mm pitch
   * 5 pin
-  * REVERSED direction pinout
   * Length: 11cm
+  * REVERSED direction pinout
 
 ## Production
 * Production files are set up for JLCPCB.  
