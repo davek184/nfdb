@@ -30,7 +30,7 @@ There are 2 daughterboard PBCs in this design (one for RF1 and one for RF2) to s
 * Production files are set up for JLCPCB.  
 * For now only Gerber file is included
 * For the "Remove Order Number" option choose "Specify Location" (Places JLCPCB production number over the JLCJLC silkscreen see render)
-* Note only Gerber file is included now so part files would need to be generated from KiCad.  Inaddition this would need to be manually soldered for the USB raiser with pin headers
+* Note only Gerber file is included now so part files would need to be generated from KiCad.  In addition these would need to be manually soldered for the USB raiser with pin headers
 
 | Part              | Adjustment   |
 | ----------------- | ------------- |
