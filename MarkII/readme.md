@@ -15,6 +15,8 @@ There are 2 daughterboard PBCs in this design to save money when manufacturing a
   * 4 pin
   * Lenth: 13cm 
   * SAME direction pinnout
+  
+![RF1Pinnout](https://i.imgur.com/1XAKQX5.png)
 
 ## R2 Realforce: JST PH connector
 * Keyboards: R2 TKL, R2 RGB TKL
