@@ -1,17 +1,22 @@
 # USB C Daughter/Breakout board for Norbaforce 
 
+Features USB-C port, ESD protection, over voltage protection, CC1 & CC2 resistors to work with USB-C to C cables.
+
+The Mark I Norbaforce is only compatible with the RealForce R1 keyboards.  Included the RF2 connector as an optional compontent incase that changes.
+
 ![Front](https://i.imgur.com/3oGNONb.png)
 ![Back](https://i.imgur.com/yq24EKO.png)
 
-The Mark I Norbaforce is only compatible with the RealForce R1 keyboards.  (Kept the R2 connector on the daughterboard incase someone changes that in the future)
+## Realforce R1 
+**Models:** 86U, 87U, 88U, 91U
 
-## R1 Realforce: JST EH connector
-* Keyboards: R1 RealForces 86U, 87U, 88U, 91U
-* Cable: EH to EH (4 pin, 2.5mm pitch), Shielding cable 13cm 
+**Cable:** EH to EH (2.5mm pitch), 4 pin, SAME direction, Length 6cm (shielding cable 13cm)
+  
+![RF1Pinnout](https://i.imgur.com/Yg8DMYr.png)
 
 ## Production
 Production files are set up for JLCPCB. 
-* For the "Remove Order Number" option choose "Specify Location" (Places JLCPCB production number over the JLCJLC silkscreen see render)
+* "Remove Order Number" option choose "Specify Location" (uses "JLCJLC" on silkscreen for order # position)
 * Assemble top side
 * Part placement adjustments for JLCPCB (these are already set in production files but will need to be manually done again if new files are generated)
 
