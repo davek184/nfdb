@@ -1,4 +1,4 @@
-# USB C Daughterboard for Norbaforce 
+# USB-C Daughterboard for Norbaforce 
 
 There are 2 different Norbaforces MKI & MKII/III (2/3 are identical internally).  
 The different models use slightly different daughterboards to accommodate the usb cutout in the case.
