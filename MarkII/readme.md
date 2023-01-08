@@ -11,7 +11,7 @@ _(2 daughterboards in this design, RF1 & RF2, to save money manufacturing)_
 ## Realforce R1 
 **Models:** 86U, 87U, 88U, 91U
 
-**Cable:** EH to EH (2.5mm pitch), 4 pin, SAME direction, Length 6cm
+**Cable:** EH to EH (2.5mm pitch), 4 pin, SAME direction, Length 6cm (shielding cable 13cm)
   
 ![RF1Pinnout](https://i.imgur.com/Yg8DMYr.png)
 
@@ -25,7 +25,7 @@ _(2 daughterboards in this design, RF1 & RF2, to save money manufacturing)_
 ## Production
 * Production files are set up for JLCPCB.  
 * For now only Gerber file is included
-* For the "Remove Order Number" option choose "Specify Location" (Places JLCPCB production number over the JLCJLC silkscreen see render)
+* "Remove Order Number" option choose "Specify Location" (uses "JLCJLC" on silkscreen for order # position)
 * _Note only Gerber file is included now so part files would need to be generated from KiCad.  In addition these would need to be manually soldered for the USB raiser with pin headers_
 
 | Part              | Adjustment   |
