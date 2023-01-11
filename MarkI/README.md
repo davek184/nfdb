@@ -2,7 +2,7 @@
 
 Features USB-C port, ESD protection, over voltage protection, CC1 & CC2 resistors to work with USB-C to C cables.
 
-The Mark I Norbaforce is only compatible with the RealForce R1 keyboards.  Included the RF2 connector as an optional compontent incase that changes.
+The Mark I Norbaforce is only compatible with the RealForce R1 keyboards.  Included the RF2 connector as an optional component in case that changes.
 
 ![Front](https://i.imgur.com/3oGNONb.png)
 ![Back](https://i.imgur.com/yq24EKO.png)
@@ -12,7 +12,7 @@ The Mark I Norbaforce is only compatible with the RealForce R1 keyboards.  Inclu
 
 **Cable:** EH to EH (2.5mm pitch), 4 pin, SAME direction, Length 6cm (shielding cable 13cm)
   
-![RF1Pinnout](https://i.imgur.com/Yg8DMYr.png)
+![RF1Pinout](https://i.imgur.com/Yg8DMYr.png)
 
 ## Production
 Production files are set up for JLCPCB. 
