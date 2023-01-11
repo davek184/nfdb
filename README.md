@@ -5,7 +5,7 @@ The different models use slightly different daughterboards to accommodate the us
 
 # Special thanks 
 * Nekotato: for requesting, testing & driving this project
-* Techbreezin: for test fitting the vast collection of Norbaforces 
+* Techbeezin: for test fitting the vast collection of Norbaforces 
 * Cipulot: Answering various questions regarding Realforce and general electrical questions/advice
 
 [Mark I](/MarkI)
