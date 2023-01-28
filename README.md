@@ -1,6 +1,6 @@
-# USB C Daughter/Breakout board for Norbaforce 
+# USB-C Daughter/Breakout board for Norbaforce 
 
-For the Norbaforce (MKii/iii). Features USB-C port, ESD protection, over voltage protection, CC1 & CC2 resistors to work with USB-C to C cables.  
+For all models of the Norbaforce (may also work for Data Pad). Features USB-C port, ESD protection, over voltage protection, CC1 & CC2 resistors to work with USB-C to C cables.  
 
 _(Note there is one PCB that can have a connector for Realforce 1 OR 2 models depending on your needs.)_
 
@@ -31,15 +31,15 @@ _(Note there is one PCB that can have a connector for Realforce 1 OR 2 models de
 
 ## BOM
 
-| LCSC part # | Description   | Value | Package  | Amount |
-| ----------- | ------------- | ----- | -------- | ------:|
-| C261942     | Fuse          |       | 0805     | 1      |
-| C7519       | ESD           |       | SOT23-6  | 1      |
-| C212411     | Resistor      | 5.1K  | 0805     | 2      |
-| C21217      | Capacitor     | 4.7nF | 0805     | 1      |
-| C165948     | Connector     |       | TH       | 1      |
-| C265068     | Connector (EH)| 4 pin | TH       | 1      |
-| C265104     | Connector (PH)| 5 pin | TH       | 1      |
+| LCSC part # | Description      | Value | Package  | Amount |
+| ----------- | ---------------- | ----- | -------- | ------ |
+| C261942     | Fuse             |       | 0805     | 1      |
+| C7519       | ESD              |       | SOT23-6  | 1      |
+| C212411     | Resistor         | 5.1K  | 0805     | 2      |
+| C597300     | Capacitor        | 4.7nF | 0805     | 1      |
+| C165948     | Connector (USB)  |       | TH       | 1      |
+| C265068     | Connector (EH)   | 4 pin | TH       | 1      |
+| C69152      | Connector (PH)   | 5 pin | TH       | 1      |
 
 _Note if the capacitor or resistors are out of stock they can be replaced with 0805 sized component with similar specs._
 
