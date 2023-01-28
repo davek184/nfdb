@@ -4,7 +4,7 @@ For all models of the Norbaforce (may also work for Data Pad). Features USB-C po
 
 _(Note there is one PCB that can have a connector for Realforce 1 OR 2 models depending on your needs.)_
 
-## Render No Keyboard Connector
+## No Keyboard Connector
 TODO: Render with No Connector
 
 ## Realforce R1 
