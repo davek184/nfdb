@@ -15,14 +15,16 @@ _(Note there is one PCB that can have a connector for Realforce 1 OR Realforce 2
 * **Models:** 86U, 87U, 88U, 91U
 * **PCB Connector:** LCSC: C265068
 * **Cable:** EH to EH (2.5mm pitch), 4 pin, SAME direction, Length 6cm (shielding cable 13cm)
+
 ![RF1Pinnout](https://i.imgur.com/Yg8DMYr.png)
 <br><br><br>
 
-# Realforce R2 
+# Version Realforce R2 
   ![RenderRF2](https://i.imgur.com/hHAMaGG.jpg)
 * **Models:** R2 TKL, R2 RGB TKL
 * **PCB Connector:** LCSC: C69152
 * **Cable:** PH to PH (2.0mm pitch), 5 pin, REVERSED Direction, Length 11cm
+
 ![RF2Pinnout](https://i.imgur.com/rXatLpw.png)
 <br><br><br>
 
