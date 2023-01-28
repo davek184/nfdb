@@ -6,37 +6,33 @@ Features USB-C port, ESD protection, over voltage protection, CC1 & CC2 resistor
 
 _(Note there is one PCB that can have a connector for Realforce 1 OR Realforce 2 models)_
 
-## Version No Keyboard Connector
+# Version No Keyboard Connector
 ![RenderNoConnector](https://i.imgur.com/EpWg2Wn.jpg)
+<br><br><br>
 
-## Version Realforce R1 
-
-![RenderRF1](https://i.imgur.com/ppieA41.jpg)
-
-**Models:** 86U, 87U, 88U, 91U
-
-**Connector:** Manufacture Model: S4B-EH(LF)(SN) LCSC: C265068
-
-**Cable:** EH to EH (2.5mm pitch), 4 pin, SAME direction, Length 6cm (shielding cable 13cm)
-  
+# Version Realforce R1 
+  ![RenderRF1](https://i.imgur.com/ppieA41.jpg)
+* **Models:** 86U, 87U, 88U, 91U
+* **PCB Connector:** LCSC: C265068
+* **Cable:** EH to EH (2.5mm pitch), 4 pin, SAME direction, Length 6cm (shielding cable 13cm)
 ![RF1Pinnout](https://i.imgur.com/Yg8DMYr.png)
+<br><br><br>
 
-## Realforce R2 
-
-TODO: Render
-
-**Models:** R2 TKL, R2 RGB TKL
-
-**Cable:** PH to PH (2.0mm pitch), 5 pin, REVERSED Direction, Length 11cm
- 
+# Realforce R2 
+  ![RenderRF2](https://i.imgur.com/hHAMaGG.jpg)
+* **Models:** R2 TKL, R2 RGB TKL
+* **PCB Connector:** LCSC: C69152
+* **Cable:** PH to PH (2.0mm pitch), 5 pin, REVERSED Direction, Length 11cm
 ![RF2Pinnout](https://i.imgur.com/rXatLpw.png)
+<br><br><br>
 
-## Manufacturing
-* Manufacturing files are set up for JLCPCB.  
+# Manufacturing
+* Manufacturing files are set up for JLCPCB. 
+* Thickness does not matter suggest standard 1.6mm 
 * "Remove Order Number" option choose "Specify Location" (uses "JLCJLC" on silkscreen for order # position)
 * Assemble top side
-* Choose assembly file version (No connector: need to solder then yourself, RF1 or RF2)
-
+* Choose assembly file version (No connector: need to solder then yourself, RF1 or RF2 as indicated above in renders)
+* Manual part adjustments from KiCad Outputs (already handled in manufacturing files)
 | Part              | Adjustment   |
 | ----------------- | ------------- |
 | USB-C Connector   | Down 5.06mm   |
