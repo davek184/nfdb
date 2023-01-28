@@ -4,7 +4,13 @@ For all models of the Norbaforce (may also work for Data Pad). Features USB-C po
 
 _(Note there is one PCB that can have a connector for Realforce 1 OR 2 models depending on your needs.)_
 
+## Render No Keyboard Connector
+TODO: Render with No Connector
+
 ## Realforce R1 
+
+TODO: Render
+
 **Models:** 86U, 87U, 88U, 91U
 
 **Cable:** EH to EH (2.5mm pitch), 4 pin, SAME direction, Length 6cm (shielding cable 13cm)
@@ -12,6 +18,9 @@ _(Note there is one PCB that can have a connector for Realforce 1 OR 2 models de
 ![RF1Pinnout](https://i.imgur.com/Yg8DMYr.png)
 
 ## Realforce R2 
+
+TODO: Render
+
 **Models:** R2 TKL, R2 RGB TKL
 
 **Cable:** PH to PH (2.0mm pitch), 5 pin, REVERSED Direction, Length 11cm
@@ -22,6 +31,7 @@ _(Note there is one PCB that can have a connector for Realforce 1 OR 2 models de
 * Manufacturing files are set up for JLCPCB.  
 * "Remove Order Number" option choose "Specify Location" (uses "JLCJLC" on silkscreen for order # position)
 * Assemble top side
+* Choose assembly file version (No connector: need to solder then yourself, RF1 or RF2)
 
 | Part              | Adjustment   |
 | ----------------- | ------------- |
