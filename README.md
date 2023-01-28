@@ -1,17 +1,21 @@
-# USB-C Daughter/Breakout board for Norbaforce 
+# USB-C Daughterboard for Norbaforce 
 
-For all models of the Norbaforce (may also work for Data Pad). Features USB-C port, ESD protection, over voltage protection, CC1 & CC2 resistors to work with USB-C to C cables.  
+For all models of the Norbaforce (may also work for Data Pad). 
 
-_(Note there is one PCB that can have a connector for Realforce 1 OR 2 models depending on your needs.)_
+Features USB-C port, ESD protection, over voltage protection, CC1 & CC2 resistors to work with USB-C to C cables.  
 
-## No Keyboard Connector
-TODO: Render with No Connector
+_(Note there is one PCB that can have a connector for Realforce 1 OR Realforce 2 models)_
 
-## Realforce R1 
+## Version No Keyboard Connector
+![RenderNoConnector](https://i.imgur.com/EpWg2Wn.jpg)
 
-TODO: Render
+## Version Realforce R1 
+
+![RenderRF1](https://i.imgur.com/ppieA41.jpg)
 
 **Models:** 86U, 87U, 88U, 91U
+
+**Connector:** Manufacture Model: S4B-EH(LF)(SN) LCSC: C265068
 
 **Cable:** EH to EH (2.5mm pitch), 4 pin, SAME direction, Length 6cm (shielding cable 13cm)
   
