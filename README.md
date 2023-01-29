@@ -61,3 +61,10 @@ _Note if the capacitor or resistors are out of stock they can be replaced with 0
 * Techbeezin: for test fitting the vast collection of Norbaforces 
 * Cipulot: Answering various questions regarding Realforce and general electrical questions/advice
 
+Fit Photos
+Norbaforce MKI (cutout is USB shape no issues with fit)
+![NFMKI](https://i.imgur.com/Zcj5vSL.jpg)
+Norbaforce MKIII (unfinished no fit issues)
+![NFMKII](https://i.imgur.com/ojrkUOl.jpg)
+Norbaforce MKII (slight internal filing was needed)
+![NFMKIIInside](https://i.imgur.com/2XnP7rR.jpg)
