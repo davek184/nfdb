@@ -57,7 +57,7 @@ _(Note there is one PCB that can have a connector for Realforce 1 OR Realforce 2
 _Note if the capacitor or resistors are out of stock they can be replaced with 0805 sized component with similar specs._
 
 # Cable Experiments
-Tested a sample cable using manufactured PH crimped wires in an EH cable housing end (LCSC C161661) to make a PH to EH cable without manually crimpting.  Worked without issues after 350 connection cycles.  That would mean the R2 daughterboard connector can be used for both R2 and R1 boards.
+Tested a sample cable using manufactured PH crimped wires in an EH cable housing end (LCSC C161661) to make a PH to EH cable without manually crimping.  Worked without issues after 350 connection cycles.  That would mean the R2 daughterboard connector can be used for both R2 and R1 boards.
 
 # Special thanks 
 * Nekotato: for requesting, testing & driving this project
