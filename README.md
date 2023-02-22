@@ -5,6 +5,7 @@ For all models of the Norbaforce (also works with the Norbauer Data Pad).
 Features USB-C port, ESD protection, over voltage protection, CC1 & CC2 resistors to work with USB-C to C cables.  
 
 Finishes on Norbaforces vary greatly.  They were designed for USB mini cables so it is possible a USB-C cable end may not fit depending a finish. In those cases a very light filing of the USB opening using a hobby file can enlarge the opening just enough for the cable.
+
 _(Note there is one PCB that can have a connector for Realforce 1 OR Realforce 2 models)_
 
 # Version No Keyboard Connector
