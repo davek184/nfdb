@@ -1,6 +1,6 @@
 # USB-C Daughterboard for Norbaforce 
 
-For all models of the Norbaforce (may also work for Data Pad). 
+For all models of the Norbaforce (also works with the Norbauer Data Pad). 
 
 Features USB-C port, ESD protection, over voltage protection, CC1 & CC2 resistors to work with USB-C to C cables.  
 
@@ -30,12 +30,15 @@ _(Note there is one PCB that can have a connector for Realforce 1 OR Realforce 2
 <br><br><br>
 
 # Manufacturing
+<details>
+  <summary>Details</summary>
 * Manufacturing files are set up for JLCPCB. 
 * Thickness does not matter suggest standard 1.6mm 
 * "Remove Order Number" option choose "Specify Location" (uses "JLCJLC" on silkscreen for order # position)
 * Assemble top side
 * Choose assembly file version (No connector: need to solder then yourself, RF1 or RF2 as indicated above in renders)
 * Manual part adjustments from KiCad Outputs (already handled in manufacturing files)
+
 | Part              | Adjustment   |
 | ----------------- | ------------- |
 | USB-C Connector   | Down 5.06mm   |
@@ -55,16 +58,32 @@ _(Note there is one PCB that can have a connector for Realforce 1 OR Realforce 2
 | C69152      | Connector (PH)   | 5 pin | TH       | 1      |
 
 _Note if the capacitor or resistors are out of stock they can be replaced with 0805 sized component with similar specs._
+</details>
+
+# EH -> PH Cable Experiments
+<details>
+  <summary>Details</summary>
+Tested a sample cable using manufactured PH crimped wires in an EH cable housing end (LCSC: C161661) to make a PH to EH cable without manually crimping.  Worked without issues after 350 connection cycles.  Potential could use R2 daughterboard connector can be used for both R2 and R1 boards.
+
+![CableEHToPH](https://i.imgur.com/tfvrSqY.png)
+</details>
 
 # Special thanks 
 * Nekotato: for requesting, testing & driving this project
 * Techbeezin: for test fitting the vast collection of Norbaforces 
 * Cipulot: Answering various questions regarding Realforce and general electrical questions/advice
 
-Fit Photos
+<details>
+  <summary>Photos</summary>
+
 Norbaforce MKI (cutout is USB shape no issues with fit)
 ![NFMKI](https://i.imgur.com/Zcj5vSL.jpg)
 Norbaforce MKIII (unfinished no fit issues)
 ![NFMKII](https://i.imgur.com/ojrkUOl.jpg)
+Norbaforce MKII RF2
+![NFMKiib](https://i.imgur.com/0RaRg6e.png)
 Norbaforce MKII (slight internal filing was needed)
 ![NFMKIIInside](https://i.imgur.com/2XnP7rR.jpg)
+Norbauer Data Pad
+![DataPad](https://i.imgur.com/ypJBltZ.jpg)
+</details>
