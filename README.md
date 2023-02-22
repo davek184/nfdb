@@ -1,6 +1,6 @@
 # USB-C Daughterboard for Norbaforce 
 
-For all models of the Norbaforce (may also work for Data Pad). 
+For all models of the Norbaforce (also works with the Norbauer Data Pad). 
 
 Features USB-C port, ESD protection, over voltage protection, CC1 & CC2 resistors to work with USB-C to C cables.  
 
@@ -57,17 +57,24 @@ _(Note there is one PCB that can have a connector for Realforce 1 OR Realforce 2
 _Note if the capacitor or resistors are out of stock they can be replaced with 0805 sized component with similar specs._
 
 # Cable Experiments
-Tested a sample cable using manufactured PH crimped wires in an EH cable housing end (LCSC C161661) to make a PH to EH cable without manually crimping.  Worked without issues after 350 connection cycles.  That would mean the R2 daughterboard connector can be used for both R2 and R1 boards.
+Tested a sample cable using manufactured PH crimped wires in an EH cable housing end (LCSC: C161661) to make a PH to EH cable without manually crimping.  Worked without issues after 350 connection cycles.  Potential could use R2 daughterboard connector can be used for both R2 and R1 boards.
+
+![CableEHToPH](https://i.imgur.com/tfvrSqY.png)
 
 # Special thanks 
 * Nekotato: for requesting, testing & driving this project
 * Techbeezin: for test fitting the vast collection of Norbaforces 
 * Cipulot: Answering various questions regarding Realforce and general electrical questions/advice
 
-Fit Photos
+<details>
+  <summary>Photos</summary>
+
 Norbaforce MKI (cutout is USB shape no issues with fit)
 ![NFMKI](https://i.imgur.com/Zcj5vSL.jpg)
 Norbaforce MKIII (unfinished no fit issues)
 ![NFMKII](https://i.imgur.com/ojrkUOl.jpg)
 Norbaforce MKII (slight internal filing was needed)
 ![NFMKIIInside](https://i.imgur.com/2XnP7rR.jpg)
+Norbauer Data Pad
+![DataPad](https://i.imgur.com/ypJBltZ.jpg)
+</details>
