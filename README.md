@@ -80,6 +80,8 @@ Norbaforce MKI (cutout is USB shape no issues with fit)
 ![NFMKI](https://i.imgur.com/Zcj5vSL.jpg)
 Norbaforce MKIII (unfinished no fit issues)
 ![NFMKII](https://i.imgur.com/ojrkUOl.jpg)
+Norbaforce MKII RF2
+![NFMKiib](https://i.imgur.com/0RaRg6e.png)
 Norbaforce MKII (slight internal filing was needed)
 ![NFMKIIInside](https://i.imgur.com/2XnP7rR.jpg)
 Norbauer Data Pad
