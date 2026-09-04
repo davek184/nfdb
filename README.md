@@ -23,12 +23,12 @@ _(Note there is one PCB that can have a connector for Realforce 1 OR Realforce 2
 
 # Version Realforce R2 
   ![RenderRF2](https://i.imgur.com/hHAMaGG.jpg)
-* **Models:** R2 TKL, R2 RGB TKL
+* **Models:** R2 TKL, R2 RGB TKL, RT1 (numpad)
 * **PCB Connector:** LCSC: C69152
 * **Cable:** PH to PH (2.0mm pitch), 5 pin, REVERSED Direction, Length 11cm
 
 ![RF2Pinnout](https://i.imgur.com/rXatLpw.png)
-<br><br><br>
+<br><br>
 
 # Manufacturing
 <details>
@@ -69,11 +69,14 @@ Tested a sample cable using manufactured PH crimped wires in an EH cable housing
 ![CableEHToPH](https://i.imgur.com/tfvrSqY.png)
 </details>
 
-# Special thanks 
-* Nekotato: for requesting, testing & driving this project
-* Techbeezin: for test fitting the vast collection of Norbaforces 
-* Cipulot: Answering various questions regarding Realforce and general electrical questions/advice
+# Notes
+<details>
+  <summary>R2 NFDB and the Realforce RT1 (Topre numpad)</summary>
 
+The R2 NFDB is compatible with the Topre Realforce RT1 numpad (released in 2024), which shares a similar footprint to the predecessor Realforce 23u.  
+![RT12](https://i.imgur.com/HHpbOw6.jpeg)
+
+</details>  
 <details>
   <summary>Photos</summary>
 
@@ -82,9 +85,17 @@ Norbaforce MKI (cutout is USB shape no issues with fit)
 Norbaforce MKIII (unfinished no fit issues)
 ![NFMKII](https://i.imgur.com/ojrkUOl.jpg)
 Norbaforce MKII RF2
-![NFMKiib](https://i.imgur.com/0RaRg6e.png)
+![NFMKiib](https://i.imgur.com/GUCTGYN.jpeg)
 Norbaforce MKII (slight internal filing was needed)
 ![NFMKIIInside](https://i.imgur.com/2XnP7rR.jpg)
-Norbauer Data Pad
+Norbauer Data Pad and the R1 NFDB
 ![DataPad](https://i.imgur.com/ypJBltZ.jpg)
+Norbauer Data Pad with RT1 pcb - use R2 NFDB
+![RT1](https://i.imgur.com/QSRFrbK.jpeg)
 </details>
+
+# Special thanks 
+* Nekotato: for requesting, testing & driving this project
+* Techbeezin: for test fitting the vast collection of Norbaforces 
+* Cipulot: answering various questions regarding Realforce and general electrical questions/advice
+* d0nk: for pre-testing the R2 OEM cabling/pinout on RT1
